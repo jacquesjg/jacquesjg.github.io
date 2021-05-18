@@ -1,10 +1,11 @@
 # Jacques Jean-Gilles
-### *Student at Code Immersives*  
-  
-  
+
+### _Student at Code Immersives_
+
 **Interests**
+
 - Software Development
 - Soccer
-- Foreign Languages
+- Foreign Languages (English, French, Haitian Kreyol, Spanish, Italian)
 
 <img src="Jacques.PNG"/>
