@@ -6,6 +6,6 @@
 
 - Software Development
 - Soccer
-- Foreign Languages (English,
+- Foreign Languages (English, French
 
 <img src="Jacques.PNG"/>
