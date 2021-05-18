@@ -6,6 +6,6 @@
 
 - Software Development
 - Soccer
-- Foreign Languages (English, French, Spanish
+- Foreign Languages (English, French, Haitian Kreyol, Spanish,
 
 <img src="Jacques.PNG"/>
